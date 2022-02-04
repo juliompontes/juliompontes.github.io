@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projetos on Julio Machado Pontes</title>
+    <link>https://juliompontes.github.io/pt/post/</link>
+    <description>Recent content in Projetos on Julio Machado Pontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://juliompontes.github.io/pt/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entendendo o churn em clientes de serviços bancários</title>
+      <link>https://juliompontes.github.io/pt/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliompontes.github.io/pt/post/project-3/</guid>
+      <description>(Python / Scikit-learn / XGBoost) O projeto tem como base o dataset &amp;ldquo;Predicting Churn for Bank Customers&amp;rdquo; - disponibilizado pelo Kaggle - e realiza uma extensa análise exploratória de dados para entender o que leva os clientes a cancelarem os serviços prestados por um banco e aplicação de modelos de Machine Learning para &amp;ldquo;prever&amp;rdquo; potenciais casos de churn.
+No que você deve ficar de olho  Análise exploratória de dados gerando vários insights sobre os clientes do banco e identificando um perfil dentre aqueles que deram churn; Aplicação e tuning automatizado dos 3 modelos de ML escolhidos: Regressão Logística, Random Forest e Extreme Gradient Boost Classifier; Interpretação das métricas de avaliação do desempenho dos modelos de ML; Entrega: novo dataset com probabilidade de churn de cada cliente do dataset de teste.</description>
+    </item>
+    
+    <item>
+      <title>Guia das profissões!</title>
+      <link>https://juliompontes.github.io/pt/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliompontes.github.io/pt/post/project-2/</guid>
+      <description>(Python / Dask / Streamlit) O projeto &amp;ldquo;Guia das profissões&amp;rdquo; apresenta todo o roadmap de um projeto de dados: coleta automatizada de dados públicos de uma fonte da web, leitura e transformação do dataset, análise das informações, criação de visualizações dos dados e deploy.
+Além disso, há a entrega de valor através do data app. O data app é uma forma de entregar um produto concreto como solução para um trabalho de dados.</description>
+    </item>
+    
+    <item>
+      <title>Minha primeira API</title>
+      <link>https://juliompontes.github.io/pt/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliompontes.github.io/pt/post/project-1/</guid>
+      <description>(Python / Flask / SQL / Heroku) Nesse projeto foi construída uma API que retorna dados salariais dos profissionais da área de economia (minha área de formação) no Brasil em 2019. A API foi construída baseada em Flask, um framework web muito utilizado para construir aplicações web de forma rápida e utilizando Python.
+Os dados foram coletados de forma automática através um script shell diretamente de uma fonte na internet; passou-se então para a limpeza dos dados através principalmente da biblioteca Pandas; os dados tratados foram armazenados em um banco de dados relacional (SQLite); a API foi construída em Flask com os endpoints, o método aceito (&amp;ldquo;GET&amp;rdquo; apenas) e as consultas em SQL que retornarão os dados nos endpoints; por fim, foi realizado o deploy da API no Heroku.</description>
+    </item>
+    
+  </channel>
+</rss>

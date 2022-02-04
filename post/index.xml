@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Julio Machado Pontes</title>
+    <link>https://juliompontes.github.io/post/</link>
+    <description>Recent content in Projects on Julio Machado Pontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://juliompontes.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Careers salary guide!</title>
+      <link>https://juliompontes.github.io/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliompontes.github.io/post/project-2/</guid>
+      <description>(Python / Dask / Streamlit) The &amp;ldquo;Careers salary guide&amp;rdquo; project presents the entire roadmap of a data project: automated collection of public data from a web source, reading and transformation of the dataset, analysis of the data, creation of visualizations and deployment.
+Beyond that, there is the delivery through a data app. The data app is a way to deliver a concrete product as a solution to a data job.</description>
+    </item>
+    
+    <item>
+      <title>My first API</title>
+      <link>https://juliompontes.github.io/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliompontes.github.io/post/project-1/</guid>
+      <description>(Python / Flask / SQL / Heroku) In this project, was built an API that returns salary data of professionals in the economics field (my bachelor&amp;rsquo;s degree) in Brazil in 2019. The API was built based on Flask, a web framework widely used to build web applications quickly and using Python.
+Data were collected automatically through a shell script directly from an internet source; then the data cleaning was performed through the Pandas library; the treated data were stored in a relational database (SQLite); the API was built in Flask with the endpoints, the accepted method (&amp;ldquo;GET&amp;rdquo; only) and the SQL queries that return the data in the endpoints; finally, the API was deployed to Heroku.</description>
+    </item>
+    
+    <item>
+      <title>Understanding churn in banking customers</title>
+      <link>https://juliompontes.github.io/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliompontes.github.io/post/project-3/</guid>
+      <description>(Python / Scikit-learn / XGBoost) The project is based on the &amp;ldquo;Predicting Churn for Bank Customers&amp;rdquo; dataset - available in Kaggle - and performs an extensive exploratory data analysis to understand what leads customers to cancel services provided by a bank. In addition, there is the application of Machine Learning models to &amp;ldquo;predict&amp;rdquo; potential churn cases.
+To keep an eye on  Exploratory data analysis generating insights about the bank&amp;rsquo;s customers and identifying a profile among those who churn; Application and automated tuning of the 3 chosen ML models: Logistic Regression, Random Forest and Extreme Gradient Boost Classifier; Interpretation of performance evaluation metrics of ML models; Delivery: new dataset with churn probability of each customer from test dataset.</description>
+    </item>
+    
+  </channel>
+</rss>
